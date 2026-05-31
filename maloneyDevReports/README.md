@@ -1,0 +1,1 @@
+this will be a better readme soon, i dont know what to put in here rignt at this moment
