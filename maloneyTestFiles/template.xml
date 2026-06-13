@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--use this template to create an event to put in TimeMapper, to create more events just copy and paste the template-->
+<xml>
+    <template>
+        <event id="1">
+            <title></title>
+            <start></start>
+            <end></end>
+            <description></description>
+            <webpage><a href=""/></webpage>
+            <media><img src=""/></media>
+            <mediaCaption></mediaCaption>
+            <tag></tag>
+            <place></place>
+        </event>
+    </template>
+</xml>
